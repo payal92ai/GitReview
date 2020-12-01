@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.tarkaveda.serenity.scripts.BaseScript" skipped="0" tests="1" time="0.12" timestamp="2018-01-14 09:22:06"><testcase classname="com.tarkaveda.serenity.scripts.BaseScript" name="Main test"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.tarkaveda.serenity.scripts.BaseScript.navigateScreens(BaseScript.java:53)&#13;
+com.tarkaveda.serenity.scripts.BaseScript.mainTest(BaseScript.java:37)&#13;
+com.tarkaveda.serenity.scripts.SerenityBaseRunner.main(SerenityBaseRunner.java:17)&#13;
+</system-err></testcase></testsuite>

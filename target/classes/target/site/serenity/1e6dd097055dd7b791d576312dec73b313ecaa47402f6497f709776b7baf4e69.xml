@@ -1,0 +1,6 @@
+<acceptance-test-run title="Main test" name="mainTest" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="124" timestamp="2018-01-14T21:22:06.892-05:00">
+  <user-story id="com.tarkaveda.serenity.scripts.BaseScript" name="Base script" path="com.tarkaveda.serenity.scripts"/>
+  <tags>
+    <tag name="Base script" type="story"/>
+  </tags>
+</acceptance-test-run>
